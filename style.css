@@ -610,7 +610,7 @@ body .card {
   background-color: white;
   height: 50vh;
   width: 20vw;
-  border-radius: 2%;
+  border-radius: 17px;
   border: 2px solid black;
   transition: all 0.3s, border-radius 0.6s;
 }
